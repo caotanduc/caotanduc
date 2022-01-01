@@ -1,6 +1,8 @@
 # 👋🏼 Hey, I'm Duc
-<!---
-caotanduc/caotanduc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I'm currently study at Ho Chi Minh University of Science
+
+* I am currently studying at Ho Chi Minh University of Science.
+* I love learning, researching and creating many interesting things.
+
+```cpp
+happy(life) ? Duc_make_it_more_happy() : Nothing_changes();
+```
