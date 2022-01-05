@@ -7,3 +7,4 @@
 happy(life) ? Duc_make_it_more_happy() : Nothing_changes();
 ```
 ![statistics.png](https://github-readme-stats.vercel.app/api?username=caotanduc&show_icons=true&theme=buefy)
+![statistics.png](https://github-readme-stats.vercel.app/api/top-langs/?username=caotanduc&layout=compact)
